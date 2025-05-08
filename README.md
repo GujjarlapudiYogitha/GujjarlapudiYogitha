@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GujjarlapudiYogitha
 - 👀 I’m interested in developing solutions for challenging problems
-- 🌱 I’m currently learning advance python concepts
 - 📫 You can reach me at yogitha817@gmail.com
 
 <!---
